@@ -1,0 +1,504 @@
+indivíduo,reconto,sentença,LUCIA,MORA,INTERIOR,PARANA,NUMA_MANHA_SEGUNDA,SAIU_DE_CASA,BUSCAR_EMPREGO,NA_CAPITAL,FOI_RODOVIARIA,FOI_CARONA,COM_PEDRO,ESTAVA_CHOVENDO,NAQUELA_MANHA,CARRO,PASSOU_CAIU,BURACO,PNEU_FUROU,PENSOU_ACHOU_PERDER,ONIBUS,PEGOU_TAXI,CONSEGUIU_CHEGAR_TEMPO
+0,Alzheimer,Lúcia pegou o carro pra ir na rodoviária,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,Alzheimer,e furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+0,Alzheimer,e ai foi pegou um táxi pra chegar com tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+0,Alzheimer,e aí furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,Alzheimer,Lucia pegou um ônibus pra ir até a cidade arrumar um emprego,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Alzheimer,ai aí o ônibus caiu num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Alzheimer,estrago,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Alzheimer,e Lucia ficou com medo de perder o emprego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Alzheimer,é,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Alzheimer,comé que ela saiu de bicicleta  de bicicleta né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Alzheimer,ela pega um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2,Alzheimer,depois pegou não sei o que o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Alzheimer,Lucia é a pessoa né,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Alzheimer,pego um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,Alzheimer,e foi pra rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3,Alzheimer,barbaridade sacanagem isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Alzheimer,eu não consigo minha cabeça,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Alzheimer,ta exatamente em função disso que eu to no médico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Alzheimer,ela foi pra rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3,Alzheimer,e da rodoviária ela fez o que,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Alzheimer,não deu .,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Alzheimer,A Lúcia ela a Lúcia né,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Alzheimer,é como é o nome do lugar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Alzheimer,ah Lúcia saiu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Alzheimer,não consigo lembrar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Alzheimer,não adianta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Alzheimer,o nome da minha irmã eu lembro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Alzheimer,mas o restante não,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Alzheimer,viajar a Lúcia foi viajar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Alzheimer,mas não sei pra onde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Alzheimer,Lúcia ia pro serviço,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Alzheimer,e pegou uma carona,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5,Alzheimer,mas o carro do dele furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+5,Alzheimer,ah e teve que pegar um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5,Alzheimer,e daí ela gastou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Alzheimer,Lucia mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Alzheimer,e ela foi de carona pegou carona com amigo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,Alzheimer,ai tava chovendo muito,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6,Alzheimer,e u carro entro num buraco quebro a roda né pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+6,Alzheimer,e e  ela achou que não ia chega a tempo lá no emprego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+6,Alzheimer,então pego um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6,Alzheimer,e ai acabou chegando na hora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,Alzheimer,Lucia ahn,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Alzheimer,ai eu to perdida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Alzheimer,a Lucia foi pra ia pra escola com um amigo que eu não me lembro o nome,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Alzheimer,e ai não sei,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Alzheimer,Lucia foram pegar o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Alzheimer,e foram pra escola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Alzheimer,tinha um buraco no meio do caminho que atrapalhou a a ida deles né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+7,Alzheimer,e daí como não conseguiu passage eles foram a pé pra escola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Alzheimer,eu to inventando esse final ai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Alzheimer,a Luci saiu pra um um pega um ônibus,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+8,Alzheimer,e e caiu ai ai o carro caiu no buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+8,Alzheimer,e furo o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8,Alzheimer,e ela morava num lugar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Alzheimer,o nome do lugar que ela morava não não sei,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Alzheimer,me esqueci,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Alzheimer,já Luci morava termina a história,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Alzheimer,agora tu me aperto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Alzheimer,Lucia foi procu foi prucura serviço,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Alzheimer,é e foi de carona com amigo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+9,Alzheimer,e o amigo furou o pneu do carro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Alzheimer,e ela penso que perdeu o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+9,Alzheimer,pegou e ai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Alzheimer,Lúcia foi pra rodoviária,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+10,Alzheimer,pegou um,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,CCL,Lúcia pegou um táxi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+11,CCL,e perdeu o o ônibus eu acho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+11,CCL,ai eu não sei direito,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,CCL,e furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+11,CCL,e não sei o que,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,CCL,o carro que estourou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+11,CCL,e aí depois não me lembro mais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,CCL,Lucia mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,CCL,e saiu de casa cedo pra mais uma entrevista,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,CCL,e saiu de carona com seu amigo Pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+12,CCL,ai  andaram de carro,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+12,CCL,o carro passou por um buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+12,CCL,furou um pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+12,CCL,e mas ainda deu tempo de achegar pra entrevista,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,CCL,a Lucia queria ir na rodoviária já na rodoviária,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+13,CCL,ai ela  o carro quebrou,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+13,CCL,e ela achou que ia perder o o  ônibus que passava,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+13,CCL,ai ela conseguiu arrumar o carro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,CCL,e ela chegou em tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,CCL,nisso aí que a lúcia pegou carona do outro negócio,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+14,CCL,bem pegou a carona indo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+14,CCL,veio chuva né,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,CCL,caiu num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+14,CCL,ah eu conto tudo difícil e separado meu deus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,CCL,Que ela foi viajar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,CCL,ela foi viajar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,CCL,perdeu o ônibus né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,CCL,perdeu o ônibus pegou um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+15,CCL,de depois que ela pegou o taxi depois ela pegou o taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+15,CCL,e chegou no trabalho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,Controle,Ta Lúcia mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Controle,ela tinha uma entrevista para de um emprego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Controle,aí seu amigo Pedro foi leva-la,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+16,Controle,aí o carro passou por um buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+16,Controle,e furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+16,Controle,aí Lúcia achou que ia perder a entrevista,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+16,Controle,aí pegou um taxi que a levou para a rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+16,Controle,é ela chegou em tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,Controle,Lúcia a Lúcia foi fazer um procurar emprego no interior do Paraná numa cidade do Paraná,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Controle,foi pegou uma carona,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+17,Controle,o nome do amigo eu não sei,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Controle,e no trajeto ela o pneu do carro passou num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+17,Controle,e furou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+17,Controle,e ela pegou uma carona com perder o horário,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+17,Controle,em outras palavras né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Controle,mas chegou a tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,Controle,Então a Lucia mora no Paraná,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Controle,mora longe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Controle,pegou uma carona pruma entrevista de emprego,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+18,Controle,durante a viagem o carro caiu num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+18,Controle,esqueci do resto que vergonha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Controle,Então ela atrasou lógico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Controle,agora não lembro se ela perdeu a entrevista de emprego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Controle,A lucia morava numa cidade do interior do paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Controle,aí ela foi de carona com o seu amigo pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+19,Controle,chovia muito,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,Controle,e e o carro caiu num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+19,Controle,furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+19,Controle,e aí ela ficou com medo de perder o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+19,Controle,e ela pegou um táxi até a rodoviária né,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+20,Controle,Lúcia morava no interior do paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Controle,tava chovendo muito,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20,Controle,e ela ia pra rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+20,Controle,e ela tava com medo de perder o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+20,Controle,e ela encontrou o amigo pedro,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+20,Controle,e ele deu uma carona pra ela,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+20,Controle,e aí ele entrou num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+20,Controle,e o pneu furou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Controle,e e aí ela chegou na rodoviária chegou na rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+20,Controle,ela era duma cidade do interior,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Controle,ou ela ia pra uma cidade do interior,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Controle,Lucia mora no interior né do paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Controle,ela foi pra ir no pra procurar emprego,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Controle,teria que pegar um ônibus na rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+21,Controle,era manhã de segunda-feira,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Controle,estava chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,Controle,e um colega o pedro deu carona pra ela,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+21,Controle,e quando estavam indo o carro bateu num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+21,Controle,furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+21,Controle,ela teve que pegar um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+21,Controle,e ela ficou insegura porque achou que não ia chegar em tempo de pegar o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+21,Controle,e aí mais conseguiu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,Controle,e chegou na capital,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Controle,Ba a lucia então ela mora no interior do paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Controle,ela tinha um trabalho pra fazer na capital,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Controle,mas começou a chover,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,Controle,ela pegou carona,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22,Controle,e aí houve um problema,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Controle,esqueci tudo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Controle,Lucia morava numa cidade do interior do paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Controle,e ela pegou carona numa manhã de chuva  pra ir até a rodoviária,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+23,Controle,no caminho o carro entrou num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+23,Controle,e furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+23,Controle,aí ela achou que ia chegar tarde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+23,Controle,chamou um táxi até a rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+23,Controle,e conseguiu pra ir pra capital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,Controle,a Lúcia mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Controle,e foi para a cidade fazer um teste,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Controle,é isso um teste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Controle,pegou uma carona com um amigo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+24,Controle,e passou por um buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+24,Controle,e furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+24,Controle,então ela foi para a rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+24,Controle,e chegou a tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,Controle,ah muito grande tua história,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,muito cheia de detalhes tá,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,Lúcia morava no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,e ela saiu pra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,agora já me lembrei o que que onde é que ela foi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,ela ia viajar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,ela foi pra rodoviária tá,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,aí tinha a estrada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,tinha muito buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+25,Controle,ela tinha medo de perder o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+25,Controle,aí ela pegou um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+25,Controle,e agora eu não sei se eu me lembro não,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,não me lembrei agora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Controle,até o táxi eu me lembro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Controle,Ah essa tá brabo hein,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Controle,Lúcia ah meu Jesus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Controle,Lúcia foi na rodoviária,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+26,Controle,chegou de carro,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+26,Controle,chegou de táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+26,Controle,ai meu Deus do céu tá difícil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Controle,ai essa tá difícil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Controle,tá difícil pra mim que não gravei tudo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Controle,não sei nem como iniciar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Controle,da Lúcia sei que a Lúcia foi na rodoviária,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+26,Controle,pegou um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+26,Controle,foi não aonde ah nanana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Controle,Lúcia mora numa cidade do Paraná,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Controle,numa manhã ela acordou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Controle,e saiu para procurar emprego,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Controle,tava chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,Controle,pegou o o foi de carro né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Controle,e chovendo muito o carro entrou num buraco,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0
+27,Controle,furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+27,Controle,ela teve que tomar um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+27,Controle,e conseguiu chegar a tempo para a entrevista de emprego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+28,Controle,Lúcia mora no Paraná,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Controle,ela saiu pra procurar um emprego,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Controle,e foi de caro  carona,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+28,Controle,daí daí o o carro estragou,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+28,Controle,ela desce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Controle,e pegou um taxi  pra não chegar atrasada na rodoviária,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+29,Controle,Lucia mora morava no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Controle,ia para a cidade em busca de emprego,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Controle,pegou carona com seu amigo Pedro até a rodoviária,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+29,Controle,teve um buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+29,Controle,furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+29,Controle,e ela pensou que ia perder o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+29,Controle,perdi muito,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,Isso aí é a maior,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,ah é a dificuldade de fazer palestras aqui,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,é a gravação na memória das coisas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,em repetir principalmente quando é um texto assim que eu tenho que memoriziar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,mais então,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,eu só me lembro que Luci né mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,e é muito difícil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,eu não memorizo isso daí,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,só tu sabe que as vezes eu tenho que ler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Controle,e repetir várias vezes pra eu poder gravar os,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Controle,Lúcia saiu do interior do Paraná para a procura de de emprego em direção à rodoviária,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+31,Controle,ficando com medo de atrasar pegou um táxi que no meio do caminho furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+31,Controle,puxa vida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Controle,e o Pedro onde anda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Controle,Bá como minha memória ta ruim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Controle,mas ela conseguiu chegar a tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+32,Controle,Lúcia foi numa entrevista de emprego no interior do Paraná,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Controle,ai filho da mãe ah não me lembro mais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Controle,me perdi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Controle,Lúcia saiu do Paraná pra procurar um emprego,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Controle,depois ela pegou um ônibus um ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+33,Controle,e chegou saiu do Paraná,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Controle,a Lúcia saiu do Paraná,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Controle,não diz como é que ela saiu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Controle,eu sei da Lúcia que saiu do Paraná pra procurar um emprego,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Controle,Lúcia mora estado do Paraná,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Controle,ela tinha que fazer uma entrevista no trabalho entrevista de trabalho,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+34,Controle,e ela ganhou uma carona do amigo dela,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+34,Controle,e no meio do caminho furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+34,Controle,e ela pensou que pegou um taxi né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+34,Controle,pensou que ia chegar tarde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+34,Controle,e chegou na hora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+34,Controle,Faltou uns detalhes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Controle,só faltou Paraná  as capitais essas coisas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Controle,Lúcia mo morava no Paraná,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Controle,saiu para fazer uma entrevista de emprego com o de carona com o amigo Pedro,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+35,Controle,e  pelo caminho passaram num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+35,Controle,furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+35,Controle,ela ficou com medo de perder o horário,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+35,Controle,desceu pegou um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+35,Controle,e chegou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Controle,conseguiu chegar no horário dela pra entrevista,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+36,Controle,ta a Lúcia mora no Paraná,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Controle,e numa segunda feira de manhã ela se dirigiu pra rodoviária pra uma entrevista porque ela ia ter uma entrevista de emprego,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+36,Controle,hã  pegou uma carona com o amigo Pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+36,Controle,hã na metade do caminho o carro estragou,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+36,Controle,aí ela pegou um taxi para que chegasse a tempo a rodoviária pra não perder a entrevista,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+37,Controle,Lúcia mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Controle,Ela saiu de casa pruma entrevista de trabalho,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Controle,e pegou carona com o amigo Pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+37,Controle,só que ela o carro tava chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+37,Controle,e o carro esbarrou num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+37,Controle,e pe e furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+37,Controle,aí Lúcia achou que não ia conseguir chegar na rodoviária a tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+37,Controle,apanhou um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+37,Controle,mas chegou na rodoviária a tempo pra fazer a a entrevista do trabalho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+37,Controle,seria isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Controle,É essa aí complicou um pouco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Controle,o nome tinha o nome da pessoa né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Controle,foi para o no Paraná,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Controle,táva chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+38,Controle,mas conta tudo do que que eu lembro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Controle,Á tá o tava chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+38,Controle,e o o pneu furou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+38,Controle,um carro o carro furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+38,Controle,pegou um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+38,Controle,foi pra rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+38,Controle,a tua história é mais bonita,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Controle,mas deu branco deu branco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Controle,lúcia mora no interior do paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Controle,e ela ia para a capital para fazer uma entrevista de emprego,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Controle,ela conseguiu uma carona com o amigo pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+39,Controle,e quando ela tava passando numa rua com buraco a roda entrou do buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+39,Controle,quebrou  furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+39,Controle,para não perder a entrevista  ela pegou um taxi que a deixou na rodoviária,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+39,Controle,e ela deve ter conseguido o emprego lá em curitiba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+39,Controle,e foi num segunda-feira de manhã,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Controle,e tava chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+40,Controle,Que Lúcia mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Controle,numa manhã de chuva ela saiu de casa pra uma entrevista de trabalho,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Controle,ela pegou um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+40,Controle,ou pegou a carona com o amigo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+40,Controle,e passaram  numa manhã de chuva e passaram num buraco,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+40,Controle,o pneu furou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+40,Controle,e ela pensou que não ia ter condições de chegar na rodoviária,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+40,Controle,aí pegou um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+40,Controle,e chegou até a rodoviária,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+40,Controle,e chegou a tempo na entrevista de trabalho que ela tinha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+41,Controle,Lucia morava no Paraná,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Controle,e num certo dia de manha chovia muito,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+41,Controle,ela teve que fazer entrevista de emprego,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Controle,e pegou carona com o amigo Pedro dela,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+41,Controle,e como tava chovendo muito o Pedro caiu num buraco com o carro,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0
+41,Controle,e ela pra não chegar atrasada na entrevista pegou um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+41,Controle,e assim ela conseguiu chegar no destino dela,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+41,Controle,fazer a entrevista e tal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Controle,a lucia saiu para uma entrevista de trabalho,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Controle,foi de carro com o Pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+42,Controle,mas ah e tava chovendo muito,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+42,Controle,ai em determinado momento fura o pneu do carro,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+42,Controle,e ela ficou apavorada que ia perder o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+42,Controle,e pegou um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+42,Controle,ah ela ia pra capital do estado,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Controle,ai pegou o taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+42,Controle,e chegou na rodoviária,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+43,Controle,lucia mora no interior do paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Controle,ela foi viajar  com seu amigo pedro né,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+43,Controle,pegou uma carona com seu amigo pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+43,Controle,e foi até foi pra rodoviária  ta certo,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+43,Controle,no caminho o carro caiu num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+43,Controle,e furou um pneu foi isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+43,Controle,mas ai ela pegou  tomou um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+43,Controle,e foi pra rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+43,Controle,e conseguiu chegar na rodoviária  é isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+43,Controle,ta certo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Controle,a Lucia é mora numa cidade do Paraná,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Controle,ela ia sair em busca de a vaga de emprego,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Controle,ai ela iria para a rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+44,Controle,ai ela pegou uma carona com o Pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+44,Controle,e no caminho tinha uma pedra que carro parou,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+44,Controle,e furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+44,Controle,parou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Controle,e ai ela ficou preocupada que ela não ia chegar a tempo pro ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+44,Controle,ai ela pegou um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+44,Controle,e chegou a tempo do ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+45,Controle,Lúcia ia pra uma entrevista de emprego,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Controle,ela morava no Paraná no Paraná no interior,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Controle,ia pra uma entrevista de emprego na capital Curitiba né,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Controle,Mas tu não disse que era Curitiba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Controle,aí ela pegou uma carona com o Pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+45,Controle,e no caminho furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+45,Controle,aí ela pegou um táxi pra ir até a rodoviária,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+45,Controle,e pegar um ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+46,Controle,A lúcia é do interior do paraná,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Controle,ia na rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+46,Controle,agora eu não sei o que ela ia fazer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Controle,ela ia pegar o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+46,Controle,eu sei que furou o pneu do carro que ela ia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+46,Controle,aí ela resolveu pegar um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+46,Controle,pegou um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+46,Controle,foi pra rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+46,Controle,e chegou a tempo de tomar o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+47,Controle,Lúcia foi pro interior do Paraná  para fazer uma entrevista  de  emprego,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Controle,mas o ônibus  furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+47,Controle,e ela achou que não ia chegar a tempo no na entrevista,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+47,Controle,então ela pegou foi pra rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+47,Controle,pegou um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+47,Controle,e chegou a tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+48,Controle,Lúcia mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Controle,ã  Lúcia mora no interir do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Controle,e ela na na estrada furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+48,Controle,e ela achou que não ia chegar a tempo  no destino,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+48,Controle,e pegou um ônibus  pra conseguir  chegar ao destino,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+49,Controle,Lúcia mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Controle,e tinha uma entrevista de emprego na na capital,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Controle,pegou uma carona com o viz com o amigo ou vizinho,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+49,Controle,agora não lembro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Controle,e ao aí o carro furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+49,Controle,ela achou que não conseguiria chegar a tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+49,Controle,aí pegou um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+49,Controle,e foi até a rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+49,Controle,e chegou a tempo pra entrevista,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+50,Controle,A Lúcia é a menina,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Controle,levantou cedo pra ir lá numa entrevista de emprego,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Controle,ah tava chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+50,Controle,não precisa ser por ordem assim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Controle,Mais ou menos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Controle,tava chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+50,Controle,e ela foi ela tinha medo de se atrasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Controle,ela foi de carro,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+50,Controle,tava chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+50,Controle,teve um buraco que estourou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+50,Controle,aí ela ficou  preocupada que não ia chegar a tempo ainda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+50,Controle,e aí ela pegou um táxi para chegar a até a o a na empresa onde foi tinha que ser entrevista entrevista de emprego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51,Controle,Então Lúcia mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Controle,e ela saiu de casa para fazer uma entrevista de trabalho,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Controle,ela não tinha condução,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Controle,pegou uma carona com o amigo chamado Pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+51,Controle,ai ela não chegou a rodo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Controle,e a pra chegar a rodoviária ela pegou um táxi,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+51,Controle,e e quando ela estava no táxi ela passou por um buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+51,Controle,e a Lúcia pensou que não ia chegar lá,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+51,Controle,mas ela chegou até a rodoviária,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+51,Controle,não sei se houve uma troca aí,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Controle,se o buraco foi na se foi na moto se foi no táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Controle,Lúcia ai interior do Pará,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Controle,foi fazer uma entrevista de emprego,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Controle,fo ia até a rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+52,Controle,aí tava chovendo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+52,Controle,entrou numa poça da água,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+52,Controle,furou o pneu do carro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+52,Controle,ficou com medo de chegar atrasada no serviço,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+52,Controle,pegou um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+52,Controle,mas deu tudo certo chegou a tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+53,Controle,Lúcia saiu de casa pra ir viajar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Controle,e encontrou um amigo Pedro,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+53,Controle,ai não lembro mais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Controle,a Lúcia morava no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Controle,e aí aí pegou um foi na rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+54,Controle,pegou um ônibus que passou num buraco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+54,Controle,e não sei mais que vergonha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Controle,lucia mora no interior de paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Controle,na segunda feira ela saiu para uma entrevista,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Controle,e aí saiu pra uma entrevista,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Controle,não lembro mais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Controle,a Lucia mora no interior de Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Controle,e ela saiu numa segunda feira pra fazer uma entrevista de emprego,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Controle,daí ela pegou uma carona com Pedro pra ir ate a rodoviária,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+56,Controle,ai furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+56,Controle,e passou num valo assim furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+56,Controle,daí ela resolveu pegar um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+56,Controle,ai ela chegou a tempo no trabalho pra fazer a entrevista,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+57,Controle,lucia pegou um carro pra ir ate a rodoviária,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+57,Controle,e o carro se acidentou,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+57,Controle,e não pode seguir viagem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Controle,ai ela pegou um taxi pra chegar até rodoviária,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+57,Controle,ai ela conseguiu o objetivo que ela queria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+58,Controle,Lucimare saiu pro seu serviço seu trabalho de entrevista,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Controle,e pegou uma carona com seu Antônio,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+58,Controle,aí chegou no caminho o pneu furou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+58,Controle,aí pegou um táxi que chovia muito,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+58,Controle,e chegou a tempo a seu serviço seu trabalho aquilo que ela ia fazer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+59,Controle,a lúcia saiu pra procurar emprego entrevista,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Controle,daí um colega dela ofereceu carona pra ela  no caso,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+59,Controle,e na ida o carro quebrou,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+59,Controle,furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+59,Controle,e a mesma pegou um taxi pra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+59,Controle,e conseguiu chegar a tempo da entrevista,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+60,Controle,ela foi pra rodoviária na carona de um,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+60,Controle,Lucia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Controle,e daí ela mas se ela foi para a rodoviária como é que ela pegou a carona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Controle,pois é mas daí ela pois é mas eu achei né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Controle,agora me perdi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Controle,por que se for na rodoviária não ia não seria pra pegar uma carona né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Controle,Ai que eu me perdi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Controle,e sei que ela não conseguiu daí pegar o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Controle,e eu agora esqueci,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Controle,mas sei que ela não conseguiu pegar ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+60,Controle,daí ela pegou uma carona dum amigo chamado Pedro,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+60,Controle,daí furo o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+61,Controle,Lucia pegou um carro,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Controle,e ficou per como é perdida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Controle,não com medo de perder o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+61,Controle,e pego um taxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+61,Controle,e mais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Controle,Tá Lúcia morava no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Controle,e iria pra uma entrevista de emprego  no interior,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Controle,pegou carona com seu amigo Pedro ou Paulo,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+62,Controle,uma coisa assim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Controle,e  no trajeto furou o pneu do carro,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+62,Controle,ela ficou apavorada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Controle,então com medo de chegar atrasada pegou um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+62,Controle,e foi para rodoviária,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+63,Controle,Lúcia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Controle,aí Jesus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Controle,Lúcia ia pega o ônibus,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+63,Controle,e o pneu do carro furou,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+63,Controle,mas ela pego um táxi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+63,Controle,e chegou a tempo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+64,Controle,a moça viajou pro paraná,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Controle,ai daí ela viajou pro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Controle,tem que dizer todas as palavras,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Controle,Viajou com o amigo Pedro isso,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64,Controle,Aí numa distância que ela andou o pneu furou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64,Controle,e ela caiu num buraco isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64,Controle,É difícil isso ai viu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Controle,Lucia morava no interior do Paraná ta,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Controle,se dirigiu ao ponto de ônibus em busca de trabalho na capital né,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Controle,deixa eu me lembrar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Controle,conseguiu pegar o ônibus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+65,Controle,bah agora não,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,Controle,Lúcia Lúcia mora no interior,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,Controle,foi pra rodoviária encontrar seu amigo Pedro,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+67,Controle,Eu me lembro assim que a lúcia foi pro trabalho né,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Controle,saiu pro trabalho pra pegar o ônibus,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+67,Controle,aí o pneu furou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+67,Controle,e ela ficou com medo de chegar atrasada no trabalho né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+67,Controle,e morava no interior,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Controle,e tem mais coisa né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Controle,Tem mais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,Controle,Lucia é uma pessoa que mora no interior do Paraná,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,Controle,e tinha uma entrevista de emprego na capital,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,Controle,pegou uma carona com seu amigo Pedro para ir até a rodoviária,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+68,Controle,e nesse momento é indo em direção a entrevis/em relação a entrevista de emprego o carro em que eles estavam furou o pneu,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+68,Controle,então Lucia acho que ia chega atrasada para realizar a sua entrevista de emprego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

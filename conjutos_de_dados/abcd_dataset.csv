@@ -1,0 +1,561 @@
+indivíduo,reconto,grupo,sentença,SENHORA,ESTAVA_FAZENDO_COMPRAS,SUA_CARTEIRA,CARTEIRA_CAIU,DA_SUA_BOLSA,ELA_NAO_VIU_A_CARTEIRA_CAIR,NO_CAIXA,NAO_TEM_COMO_PAGAR,COLOCA_AS_MERCADORIAS_DE_LADO,FOI_PARA_SUA_CASA,QUANDO_ELA_ABRIU_A_PORTA,TELEFONE_TOCOU,PEQUENA,MENINA,LHE_DISSE,ELA_ACHOU_A_CARTEIRA,SENHORA_ALIVIADA
+0,1,Controle,a senhora foi fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,1,Controle,estava fazendo as compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,1,Controle,e depois ela foi pagar,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+0,1,Controle,na hora de pagar ela descobriu que ela estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+0,1,Controle,a carteira tinha caído no chão,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,1,Controle,ela fo não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+0,1,Controle,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+0,1,Controle,deixou as compras lá,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+0,1,Controle,chegando em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+0,1,Controle,ela pegou atendeu o telefone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,1,Controle,e era uma menininha dizendo que achou a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+0,2,Controle,uma senhora foi fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,2,Controle,pegou as compras,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,2,Controle,e quando chegou ao caixa caiu a carteira dela,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+0,2,Controle,ela não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+0,2,Controle,foi pagar,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+0,2,Controle,não conseguiu pagar,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+0,2,Controle,foi embora pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+0,2,Controle,quando ela chegou em casa tocou a campa é tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+0,2,Controle,ela foi atender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,2,Controle,e era uma menininha dizendo que achou a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+1,1,Controle,uma senhora foi fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,Controle,uma senhora foi fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,Controle,e na hora de pagar viu que tinha perdido a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+1,1,Controle,aí ele deixou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1,1,Controle,e foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1,1,Controle,quando che entrou em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+1,1,Controle,e uma menininha disse que havia achado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+1,2,Controle,uma senhora foi fazer compra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,2,Controle,e ao abrir a sua bolsa ela percebeu,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,2,Controle,e quando ela foi pagar ela abriu sua bolsa e percebeu que tinha esquec que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+1,2,Controle,ela deixou a compra de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1,2,Controle,foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1,2,Controle,e ao entrar em sua casa ela ouviu o telefone tocando,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+1,2,Controle,atendeu e era uma garota que dizia que tinha achado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+2,1,Controle,uma senhora ela foi ao supermercado pra fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,Controle,e não percebeu quando a carteira dela caiu,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,Controle,aí quando ela se aproximou lá do caixa e aí que ela percebeu que a carteira dela tinha desaparecido,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+2,1,Controle,ela colocou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2,1,Controle,e foi para a casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2,1,Controle,chegando em casa ela recebeu um telefonema de uma menininha  é dizendo que a carteira dela tinha sido encontrada,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0
+2,1,Controle,não sei se é isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,2,Controle,é uma senhora,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,2,Controle,ela foi ao supermercado para fazer compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,2,Controle,e não percebeu quando a sua carteira caiu da bolsa,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+2,2,Controle,ela então se dirigiu ao caixa,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2,2,Controle,e lá no caixa é que ela percebeu que ela estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+2,2,Controle,ela deixou as suas compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2,2,Controle,e voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2,2,Controle,e em casa ela recebeu o telefonema de uma menininha que que lhe contou que a  carteira havia sido encontrada,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+3,1,Controle,a velhinha uma senhora velhinha foi ao mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,Controle,fez as suas compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,Controle,na hora de pagar ela percebeu que estava sem a carteira que havia caí­do,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+3,1,Controle,desconcertada ela deixou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3,1,Controle,foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,1,Controle,e quando ela recebeu telefonema que uma menininha ligou pra ela que tinha achado a carteira,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+3,1,Controle,e ela ficou mais tranquila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,2,Controle,uma senhora fazia as compras no mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,2,Controle,e ao fazer as compras a sua carteira caiu,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,2,Controle,e ela não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+3,2,Controle,quando ela chegou no caixa ela viu que ela não tinha condições de fazer as compras,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+3,2,Controle,resultado ela deixou as coisas de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3,2,Controle,e foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,2,Controle,quando ela chegou em casa uma menininha ligou alguém ligou,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+3,2,Controle,era uma menininha que falou eu achei a sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+3,2,Controle,e ela ficou aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,2,Controle,basicamente isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,1,Controle,ela deixou a bol a carteira caiu da bolsa,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+4,1,Controle,e ao no momento que ela foi no caixa ela percebeu que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+4,1,Controle,e deixou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+4,1,Controle,e que aí ela foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+4,1,Controle,chegando em casa ela recebeu uma ligação,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+4,1,Controle,não é de uma  menina informando que ela tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+4,1,Controle,é isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,2,Controle,que a senhora deix ela deixou cair a carteira da bolsa,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+4,2,Controle,e que quando ela foi pagar no caixa ela percebeu que a estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+4,2,Controle,deixou a compra do lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+4,2,Controle,foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+4,2,Controle,chegando em casa ela recebeu a ligação de uma garota uma menina informando que ela tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0
+5,1,Controle,uma senhora ia ia fazer compra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,Controle,e perdeu a carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,Controle,e quando ia pagar as a conta viu que não tinha carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+5,1,Controle,então deixou de lado a compra,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,1,Controle,aí foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+5,1,Controle,e chegando em casa ela recebeu o telefonema de uma menininha falando que tinha encontrado a carteira,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0
+5,2,Controle,da senhora que foi fazer compra no mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,2,Controle,ela derrubou a carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,2,Controle,e fez fez as compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,2,Controle,e viu que tava sem a carteira,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,2,Controle,e deixou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,2,Controle,voltou pra casa chegando lá recebeu um telefonema falando que foi encontrada,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+5,2,Controle,uma menina encontrou a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+6,1,Controle,ta enquanto uma senhora foi ao supermercado sua carteira caiu,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,Controle,e ela não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,1,Controle,quando ela chegou ao caixa não tinha dinheiro para pagar,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+6,1,Controle,deixou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6,1,Controle,e foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+6,1,Controle,chegando em casa uma menininha ligou,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+6,1,Controle,e disse a ela que havia achado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+6,1,Controle,o que a deixou muito aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,2,Controle,uma senhora foi ao supermercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,2,Controle,deixou cair a carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,2,Controle,e não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,2,Controle,ao fazer as compras e ir para ao caixa percebeu que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+6,2,Controle,colocou as compras do lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6,2,Controle,foi pra casa procurar a carteira,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+6,2,Controle,quando chegou em casa uma menininha ligou pra ela dizendo que achou a carteira,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+6,2,Controle,o que a deixou muito tranquila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,2,Controle,não era tranquila algo assim não lembro o que que era,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,1,Controle,olha uma a uma senhora é foi fazer comp foi fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,1,Controle,e ao chegar ao caixa percebeu que tinha que a carteira não estava,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+7,1,Controle,largou as compras lá,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7,1,Controle,foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+7,1,Controle,e ao chegar em casa o telefone estava tocando,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+7,1,Controle,uma menininha avisou que  tinha achado a sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+7,2,Controle,uma senhora tava fazendo compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,2,Controle,ao chegar ao caixa percebeu que não tinha carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+7,2,Controle,aí deixou as compras ao lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7,2,Controle,foi pra casa é,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+7,2,Controle,ao chegar em casa o telefone estava tocando ou tocou em seguida,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+7,2,Controle,e atende é,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,2,Controle,quando atendeu era uma criança que comunicou que tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+7,2,Controle,uma coisa assim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,Controle,uma senhora foi fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,Controle,e chegando no caixa ela pôs a carteira ao lado,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,1,Controle,e achou que tinha esquecido a carteira,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,1,Controle,ela voltou pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8,1,Controle,chegando em casa entrou tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+8,1,Controle,era uma menininha que falou que tinha encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+8,1,Controle,e daí ela ficou aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,2,Controle,uma senhora foi ao mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2,Controle,e ao fazer as compras ela colocou a carteira no caixa ao lado,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,2,Controle,e achou que tinha perdido a carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2,Controle,voltou pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8,2,Controle,quando entrou em casa tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+8,2,Controle,ela foi atender o telefone era uma menininha dizendo que tinha encontrado a sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+8,2,Controle,daí ela ficou toda feliz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,2,Controle,e parece que voltou para o mercado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,1,Controle,que a senhorinha foi na no mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,1,Controle,fez umas compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,1,Controle,e quando foi pagar as compras tinha perdida a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+9,1,Controle,aí ela foi embora,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+9,1,Controle,largou as compras do lado foi embora pra casa,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+9,1,Controle,n quando ela entrou tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+9,1,Controle,ela foi atender o telefone era uma menina que estava falando que tinha achado a carteira da senhora,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+9,2,Controle,a senhorinha foi no mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,2,Controle,fez umas compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,2,Controle,quando estava no caixa foi percebeu que tinha perdido a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+9,2,Controle,pôs as compras do lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+9,2,Controle,foi embora pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+9,2,Controle,quando ela chegou lá o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+9,2,Controle,ela foi atender era uma menina que tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+10,1,Controle,essa senhora ela sa ela ela saiu,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,1,Controle,deixou cair a carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,1,Controle,não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+10,1,Controle,e a criança meu deus olha que coisa ela deixou cair a carteira não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+10,1,Controle,e a criança falou pra ela que isso tinha acontecido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,1,Controle,eu só não falei que ela tinha ido ao mercado,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Controle,supermercado,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Controle,e que ela deixou cair a bolsa no chão,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Controle,e ela não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+10,2,Controle,e a garotinha veio e avisou pra ela que tinha acontecido isso,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+11,1,Controle,uma senhora é saiu pra fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,Controle,e quando ela acabou de fazer as compras ela notou que tinha esquecido a carteira,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,Controle,ela estava sem a carteira,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,1,Controle,e aí ela ficou muito preocupada porque como que ela ia fazer pra ela pagar as compras,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,1,Controle,então ela voltou pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11,1,Controle,e teve que deixar as compras naturalmente,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+11,1,Controle,não sei se você falou isso mas eu invento a histó,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,Controle,aí ela teve que deixar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,Controle,foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11,1,Controle,quando ela chegou em casa tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+11,1,Controle,e era uma menininha que tinha encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+11,1,Controle,então ela ficou muito aliviada porque,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,1,Controle,encontrou a carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+11,1,Controle,foi isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,Controle,então uma senhora saiu pra fazer compras no supermercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,Controle,depois que ela  f estava fez as compras na hora de fazer o pagamento ela percebeu que estava sem a carteira,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+11,2,Controle,e levou um susto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,Controle,então ela teve voltou pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11,2,Controle,quando ela chegou em casa tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+11,2,Controle,era uma voz de criança dizendo que havia encontrado a carteira dela,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+11,2,Controle,ela ficou muito aliviada com esse telefonema,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,2,Controle,e e feliz porque afinal de contas a carteira foi encontrada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,1,CCL,uma senhora fez as compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,CCL,e não percebeu que caiu a carteira,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+12,1,CCL,quando ela se chegou ao caixa  sentiu que não tinha dinheiro para pagar,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+12,1,CCL,o que ela fez,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,CCL,ela separou as compras,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+12,1,CCL,e ficou  desesperada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,CCL,quando recebeu o telefonema de uma criança avisando que tinha achado sua carteira e ela ficou totalmente feliz,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+12,2,CCL,uma senhora estava no supermercado fazendo compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,2,CCL,quando não percebeu que caiu sua carteira no chão,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+12,2,CCL,quando se dirigiu ao caixa para pagar a mesma percebeu que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+12,2,CCL,entrou em desespero,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,2,CCL,não conseguiu pagar a conta,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,2,CCL,deixou a despesa de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+12,2,CCL,foi quando uma criança ligou para ela,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+12,2,CCL,eu achei sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+12,2,CCL,ela ficou toda feliz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,1,CCL,ahm uma senhora foi fazer compras no me foi no mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,CCL,não lembrava o local,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,CCL,no me fazer compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,CCL,e quando ela foi pagar a conta no caixa percebeu que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+13,1,CCL,aí ela foi deixou a mercadoria,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+13,1,CCL,não levou a mercadoria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,CCL,voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+13,1,CCL,chegando em casa toca o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+13,1,CCL,era uma garotinha avisando ela que que tinha achado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+13,1,CCL,é isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,CCL,tem mais coisa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,CCL,não  cortei,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,CCL,eu resumi o que eu ouvi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,2,CCL,ah da mulher que foi foi no mercado fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,2,CCL,quando ela foi pagar ela viu que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+13,2,CCL,então ela deixou a mercadoria  na no local,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+13,2,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+13,2,CCL,quanto chegou em casa tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+13,2,CCL,era uma garotinha falando que tinha achado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+13,2,CCL,acho que é isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,CCL,uma senhora estava na fila do caixa com as suas compras,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+14,1,CCL,na hora de pagar ela derru  quer dizer derrubou a carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,CCL,e ela não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+14,1,CCL,e aí na hora de passar no caixa não tinha como pagar,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+14,1,CCL,aí ela deixou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+14,1,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+14,1,CCL,nisso tocando o telefone ela atendeu uma menininha é dizendo que achou a carteira dela,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+14,1,CCL,e ela ficou feliz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,1,CCL,acabou a história,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,CCL,ah a da senhora,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,CCL,a senhora estava na fila do caixa quando percebeu que tinha derrubado a carteira,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+14,2,CCL,deixou de lado as compras,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+14,2,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+14,2,CCL,nisso tocou o telefone,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+14,2,CCL,uma menina dizendo que tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+15,1,CCL,uma senhora estava no supermercado,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,1,CCL,fez a compra dela,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,1,CCL,só que a ao chegar no caixa ela percebeu que tinha perdido a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+15,1,CCL,ficou chateada não é,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,1,CCL,deixou as compras,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+15,1,CCL,e foi embora para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,1,CCL,quando chegou em casa ela recebeu uma ligação,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,1,CCL,e era uma menininha dizendo que tinha achado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+15,1,CCL,e ela ficou muito contente,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,2,CCL,uma senhora foi fazer compra no supermercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,2,CCL,e  ao chegar ao caixa ela percebeu que tinha perdido a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+15,2,CCL,ela deixou as compras,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+15,2,CCL,e foi embora,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,2,CCL,quando ela chegou em casa ela recebeu uma ligação,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+15,2,CCL,e era uma menina dizendo que tinha achado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+15,2,CCL,ela ficou muito contente,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,1,CCL,uma senhora foi ao mercado fazer suas compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,CCL,e sem perceber sua carteira caiu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+16,1,CCL,deixou cair a carteira,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,CCL,e não percebendo não sabia que isso tinha acontecido foi ao caixa,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+16,1,CCL,e su deu então  percebeu então o que tinha acontecido,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+16,1,CCL,não tinha como pagar as compras,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,1,CCL,deixou tudo lá,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+16,1,CCL,foi pra sua casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+16,1,CCL,logo chegando em casa ouviu pelo telefone alguém ligou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+16,1,CCL,e uma menininha dizendo ter encontrado  a sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+16,1,CCL,ela ficou bastante é contente aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,2,CCL,é uma senhora f ela vai ao mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,2,CCL,não foi dito o nome dela não,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,2,CCL,acho que não né,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,2,CCL,ela vai ao mercado fazer compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,2,CCL,e depois de colocar as compras ali no carrinho ou algo semelhante,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,2,CCL,e chegando ao caixa ela  vê que está sem carteira,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+16,2,CCL,tinha caído a carteira dela lá pelo meio do mercado,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,2,CCL,e ela não sabia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+16,2,CCL,aí ela deixou as compras de  lá no caixa  lá de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+16,2,CCL,enfim foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+16,2,CCL,chegando em casa alguém logo em seguida quase telefona,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+16,2,CCL,e era uma menininha dizendo ter encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+16,2,CCL,ela fica contente,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,2,CCL,enfim aliviada de ter reencontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,1,CCL,senhora foi ao mercado fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,1,CCL,fez suas compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,1,CCL,quando foi passar ao caixa ela viu que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+17,1,CCL,aí resolveu deixar as compras de lado de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+17,1,CCL,e foi até em casa ver se encontrava a carteira,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+17,1,CCL,aí chegando em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+17,1,CCL,uma menina ligou falando para ela que tinha encontrado a sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+17,1,CCL,aí ela voltou ao mercado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,1,CCL,e ficou muito contente,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,2,CCL,senhora foi ao mercado fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,CCL,então fez sua compra,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,CCL,quando ela foi passar no caixa viu esq viu que tinha esquecido a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+17,2,CCL,estava sem a sua carteira,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17,2,CCL,então ela deixou as compras do lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+17,2,CCL,e foi até a sua casa buscar ver se encontrava a carteira porque ela achava que ela tinha perdido,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+17,2,CCL,então ela chegando em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+17,2,CCL,uma menina ligando falando que havia  achado sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+18,1,CCL,uma senhora tinha feito compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,1,CCL,e quando foi fazer o pagamento dessas compras ela descobriu que ela estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+18,1,CCL,então ela deixou as compras porque não pode pagar,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+18,1,CCL,e foi para casa dela,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+18,1,CCL,quando chegou na casa dela logo que ela abriu a porta tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+18,1,CCL,e uma criança ao telefone comentou que tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+18,2,CCL,uma senhora fez umas compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,2,CCL,e a hora que ela foi fazer o pagamento ela descobriu que ela tinha que ela não estava com a carteira quer dizer teria perdido a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+18,2,CCL,ela deixou as compras no lugar,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+18,2,CCL,e foi foi para a casa dela,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+18,2,CCL,ao chegar na casa dela ao abrir a porta da casa dela tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+18,2,CCL,ela atendeu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,2,CCL,era uma menina informando que tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+19,1,CCL,ela foi fazer compra,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,1,CCL,e perdeu roubaram perdeu carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,1,CCL,aí não dá para pagar,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,1,CCL,aí ela voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+19,1,CCL,aí chegou em casa tocou o telefone porque acharam carteira,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+19,2,CCL,não sei senhora que comprou,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,2,CCL,só que não tinha carteira,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,2,CCL,não tinham roubado não sei lá,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,2,CCL,aí ela deixou,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+19,2,CCL,foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+19,2,CCL,chegou lá tocou o telefone porque acharam carteira,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+19,2,CCL,só isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,1,CCL,uma senhora foi no mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,1,CCL,ia fazer compra não é,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,1,CCL,na hora de pagar perdeu carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+20,1,CCL,deixou no lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+20,1,CCL,e foi embora para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+20,1,CCL,ache uma moça falou que estava caída na dentro de casa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,1,CCL,ficou aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+20,1,CCL,não sei se era assim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,2,CCL,eu fui no mercado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,2,CCL,ia fazer compra,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,2,CCL,na hora de pagamento perdeu a carteira,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+20,2,CCL,e  deixou no lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+20,2,CCL,e foi embora para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+20,2,CCL,a moça encontrou a carteira na casa dela,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,2,CCL,e ela ficou aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,1,CCL,ahm uma senhora foi as compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,1,CCL,e enquanto ela estava andando caiu a carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,1,CCL,caiu-lhe a carteira,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,1,CCL,e ela não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+21,1,CCL,ela só percebeu quando chegou no caixa,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+21,1,CCL,deixou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+21,1,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+21,1,CCL,quando ela chegou em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+21,1,CCL,e  uma menininha lhe disse que tinha achado a sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+21,1,CCL,ela ficou muito aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,2,CCL,uma senhora foi às compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,2,CCL,e sem perceber deixou cair o dinheiro no caminho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,2,CCL,ah depois de ter feito as compras ela percebeu que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+21,2,CCL,já no caixa deixou lá as compras,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+21,2,CCL,e voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+21,2,CCL,chegando em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+21,2,CCL,e uma menininha lhe disse que achara a sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+21,2,CCL,ela ficou muito aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,1,CCL,uma senhora foi ao super-mercado fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,1,CCL,e deixou cair a carteira da de dentro da bolsa,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+22,1,CCL,quando ela chegou no caixa ela num po ahm viu que estava sem a carteira,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+22,1,CCL,e não pode levar,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,1,CCL,então deixou as compras,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+22,1,CCL,e foi embora,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+22,1,CCL,quando ela estava chegando em casa que ela acabou de chegar em casa tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+22,1,CCL,e uma menininha falou pra ela avisando que  tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+22,1,CCL,aconteceu parecido comigo por isso que eu só que não foi uma menininha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,1,CCL,ah é e achou a carteira  achou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+22,1,CCL,ai ai a gente não acredita que acha carteira de dinheiro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,2,CCL,então tem uma senhora que foi ao mercao super-mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,2,CCL,e perdeu a carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,2,CCL,caiu da bolsa,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+22,2,CCL,quando ela chegou no caixa com as compras não tinha o a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+22,2,CCL,então separou as compras deixou lá,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+22,2,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+22,2,CCL,quando chegou em casa assim que chegou tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+22,2,CCL,e era uma menina dizendo que achou a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+23,1,CCL,ah a senhora foi as compras para fazer uma compra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,1,CCL,e na hora que ela passou no caixa ela perdeu u ah ela perdeu a carteira,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+23,1,CCL,caiu no chão,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,1,CCL,e perdeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+23,1,CCL,aí­ ela foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,1,CCL,e em casa teve uma uma criança que ligou para ela falando que tinha encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+23,1,CCL,e ela ficou muito agradecida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,2,CCL,uma senhora ela foi no supermercado fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,2,CCL,a hora que ela estava passando no caixa  ela viu que tinha perdido a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+23,2,CCL,a carteira caiu,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,2,CCL,aí quando ela chegou  ela foi embora para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,2,CCL,quando ela chegou em casa  teve uma criança que ligou para ela que tinha encontrado a carteira,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0
+23,2,CCL,aí ela ficou muito agradecida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,2,CCL,é isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,1,CCL,enquanto uma senhora fazia compras ela caiu a carteira,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,1,CCL,mas ela não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+24,1,CCL,quando chegou ao caixa com as compras ela não tinha como pagar,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+24,1,CCL,e havia perdido a carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,1,CCL,aí quando chegou em casa é  uma menininha telefonou ahm avisando que havia achado a carteira dela,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0
+24,1,CCL,e ela ficou aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,2,CCL,ai  a senhora estava fazendo compras e não percebeu que a carteira caiu da sua bolsa,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+24,2,CCL,não sei se caiu da sua bolsa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,2,CCL,ela não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+24,2,CCL,e quando chegou no caixa não tinha como pagar as contas lá,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+24,2,CCL,ela deixou as compras ali no caixa,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+24,2,CCL,e voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+24,2,CCL,ao chegar em casa ahm uma menina telefonou avisando que havia encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0
+24,2,CCL,a senhora ficou aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,1,CCL,é é uma senhora estava fazendo compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,1,CCL,e e a carteira dela foi,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,1,CCL,e uma criança achou,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+25,1,CCL,e levou ao encontro dela,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,1,CCL,e agora e ela ficou aliviada não é,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,2,CCL,uma senhora fazia fez fez compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,2,CCL,e deixou as suas encomendas não é,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,2,CCL,não ela esqueceu as plantas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,2,CCL,ela esqueceu as compras no lugar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,2,CCL,e perdeu-se,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,2,CCL,e esqueceu onde largou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,2,CCL,então a criança achou,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,2,CCL,e levou para ela,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,2,CCL,consegui contar parece,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,1,CCL,uma senhora foi às compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,1,CCL,e perdeu deixou cair a sua carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,1,CCL,e não viu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+26,1,CCL,então ela deixou as compras em cima do balcão,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+26,1,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+26,1,CCL,e assim que ela chegou em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+26,1,CCL,era uma menininha dizendo que ela que havia encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+26,1,CCL,e ela ficou muito aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,2,CCL,é eu não me lembro se ela tinha nome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,2,CCL,mas ela foi fazer compras no supermercado,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,2,CCL,e quando ela deixou a carteira cair e não percebeu,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+26,2,CCL,aí quando ela foi pagar viu que não tinha carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+26,2,CCL,então deixou as compras em cima do balcão,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+26,2,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+26,2,CCL,assim que ela chegou em casa ela recebeu um telefonema,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+26,2,CCL,era uma menina dizendo que havia encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+26,2,CCL,ela ficou muito feliz e aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,1,CCL,é enquanto uma senhora fazia fazia compra é ela deixou sua carteira cair,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,1,CCL,e aí ela será que eu vou inventar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,1,CCL,é ela foi pagar,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+27,1,CCL,e não encontrou a carteira,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,1,CCL,e foi para casa chateada,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+27,1,CCL,aí o telefone tocou,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+27,1,CCL,aí era uma menininha falando que encontrou a carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+27,1,CCL,ela sentiu aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,2,CCL,uma senhora foi ao supermercado fazer compra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,2,CCL,e na hora de pagar percebeu que tinha perdido a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+27,2,CCL,é foi para casa chateada,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+27,2,CCL,e o telefone da casa dela tocou,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+27,2,CCL,era uma criança que estava ligando falando que achou a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+27,2,CCL,ela ficou feliz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,2,CCL,alguma coisa assim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,1,CCL,é uma senhora estava fazendo compra e a carteira caiu da bolsa sem que ela percebesse,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+28,1,CCL,então que que ela fez devolveu as compras,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+28,1,CCL,foi para casa chateada com a achando que não tinha não ia não tinha como recuperar a bolsa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+28,1,CCL,e sem sendo que assim que ela chegou o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+28,1,CCL,e avisaram que tinham encontrado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,1,CCL,uma garotinha tinha encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+28,1,CCL,ela ficou super feliz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+28,2,CCL,uma senhora estava fazendo compras no supermercado quando ela ia distraidamente,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,2,CCL,distraidamente não ela não percebeu que caiu a carteira da bolsa,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+28,2,CCL,acho que ela pegou alguma coisa assim deixou cair não percebeu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,2,CCL,e na hora que ela foi no caixa para pagar viu que não tinha como pagar,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+28,2,CCL,ela deixou tudo lá,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+28,2,CCL,e foi embora para casa chateada não é,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+28,2,CCL,aí no que ela chegou em casa  tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+28,2,CCL,era uma pessoa que tinha encontrado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28,2,CCL,uma menina que naturalmente tinha o telefone dela na carteira,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28,2,CCL,ela ligou para avisar que tinha encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+28,2,CCL,aí ela ficou aliviada  imagino,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,1,CCL,ai que bonitinha deixa eu ver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,1,CCL,uma senhora fazendo compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,1,CCL,na hora de pagar as compras  percebeu que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+29,1,CCL,ela deixou as compras do lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+29,1,CCL,e foi pra casa tristinha,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+29,1,CCL,ao abrir a porta recebeu um telefonema que uma mocinha dizia que tinha encontrado a carteira,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0
+29,1,CCL,e essa senhora ficou bastante aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,2,CCL,uma senhora saiu a fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,2,CCL,quando chegou no caixa percebeu que tinha perdido a sua carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+29,2,CCL,deixou as compras do lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+29,2,CCL,foi para casa tristonha,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+29,2,CCL,ao abrir a porta tocou o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+29,2,CCL,era uma mocinha dizendo que achou a sua carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+29,2,CCL,ela ficou muito agradecida muito feliz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,1,CCL,uma senhora foi ao supermercado fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,1,CCL,fez todas as compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,1,CCL,chegou com o carrinho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,1,CCL,quando ela foi passar no caixa ela foi tira a carteira da bolsa,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+30,1,CCL,a carteira caiu ela não percebeu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,1,CCL,como ela tava sem sem o dinheiro ela deixou as compras de lado,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+30,1,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+30,1,CCL,chegando em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+30,1,CCL,uma menininha falou pra ela que havia encontrado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+30,1,CCL,ela ficou muito contente,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,2,CCL,a uma senhora foi fazer compra no supermercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,2,CCL,não e ela pegou toda a mercadoria colocou no caixa,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+30,2,CCL,quando ela foi vê ela tinha perdido a carteira de dinheiro,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,2,CCL,como ela não tinha dinheiro pra pagar ela  separou todas as compras deixou lá,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+30,2,CCL,e foi pra casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+30,2,CCL,ficou muito triste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,2,CCL,mas ao chegar em casa ela recebeu um telefonema,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+30,2,CCL,e uma garotinha disse que havia encontrado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+30,2,CCL,e ela ficou muito contente com isso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+31,1,CCL,a senhora foi fazer uma compra no supermercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,1,CCL,e ela derrubou a carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,1,CCL,e não percebeu que havia ah derrubado a carteira,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+31,1,CCL,foi passar no caixa,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+31,1,CCL,aí ela não tinha como pagar,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,1,CCL,não tinha cartão,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,1,CCL,não tinha dinheiro,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,1,CCL,ela deixou as compras do lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+31,1,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+31,1,CCL,chegando em casa ela ao abrir a porta ah veio um telefonema para ela,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+31,1,CCL,era a menina avisando que a carteira dela foi encontrada,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+31,1,CCL,aí ela ficou muito feliz não é de ter achado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+31,2,CCL,uma senhora foi ao supermercado fazer compra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,2,CCL,e ela não percebeu que havia a carteira dela havia caído,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+31,2,CCL,e quando ela pa foi passar no caixa ela estava sem a carteira sem o cartão,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+31,2,CCL,então ela deixou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+31,2,CCL,e foi para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+31,2,CCL,chegando em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+31,2,CCL,era uma menina avisando que a carteira dela foi encontrada,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+31,2,CCL,aí ela ficou muito feliz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+32,1,CCL,uma senhora foi fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,1,CCL,e quando ela chegou no caixa para efetuar o pagamento percebeu que estava sem a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+32,1,CCL,então não tinha como levar as compras sem fazer o pagamento,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,1,CCL,ela deixou lá,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+32,1,CCL,voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+32,1,CCL,chegando em casa segundos depois é alguém telefonou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+32,1,CCL,era uma criança dizendo que ela que tinha achado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+32,1,CCL,acho que faltou alguma coisa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,2,CCL,uma senhora foi às compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,2,CCL,pegou os produtos e se dirigiu ao caixa,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,2,CCL,no momento de de pagar as compras efetuadas ela percebeu que estava sem a carteira,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,2,CCL,ficou surpresa mas não tinha outra solução,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,2,CCL,deixou as compras ao lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+32,2,CCL,e voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+32,2,CCL,após sua chegada em casa toca o telefone,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+32,2,CCL,e era uma garotinha que informou a ela que havia é achado a carteira,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+32,2,CCL,isso deixou essa senhora aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,1,CCL,uma senhora foi fazer compra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,1,CCL,e quando ela foi passar na caixa ela viu que tinha perdido a carteira,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+33,1,CCL,ela foi para casa muito chateada,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+33,1,CCL,quando chegou na casa dela o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+33,1,CCL,era uma menininha que dizia que tem que tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+33,1,CCL,e ela ficou muito aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,1,CCL,será que eu sei de alguma coisa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,2,CCL,uma senhora foi fazer compra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,2,CCL,e q e quando ela foi passar na caixa não achou a carteira dela,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+33,2,CCL,deixou as compras de lado,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+33,2,CCL,e e  voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+33,2,CCL,quando chegou na casa dela o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+33,2,CCL,era uma menina que avisava que ela tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+33,2,CCL,e ela ficou muito aliviada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,2,CCL,não sei se está certo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,1,CCL,a senhora saiu para fazer compras,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,1,CCL,e na ida para o mercado ela perdeu a carteira,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+34,1,CCL,ela chegou ao mercado já não teve não deu para pagar as contas,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+34,1,CCL,voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,1,CCL,ao estar em casa uma pessoa ligou que era uma menina dizendo para ela que tinha achado a bolsa com a carteira documento tudo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0
+34,1,CCL,ela ficou muito feliz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+34,2,CCL,uma senhora foi ao mercado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,2,CCL,ao ir ao mercado perdeu carteira,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,2,CCL,fez as compras,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,2,CCL,e não pode trazer as compras porque não tinha como pagar não é,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+34,2,CCL,voltou para casa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,2,CCL,ao chegar em casa o telefone tocou,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+34,2,CCL,uma menina avisando que tinha achado a carteira dela,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
