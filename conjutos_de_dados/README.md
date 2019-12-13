@@ -11,7 +11,7 @@ Esse conjunto de dados consiste em 70 narrativas de falantes do português do Br
 
 
 | Grupo | Pacientes | Narrativa |<p>Média Sentenças<br>value  (Desvio Padrão)</p>  | <p>Média de palavras por sentença <br> (Desvio Padrão) </p> |
-|------|------|------|------|------|------|------|
+|------|------|------|------|------|
 | CCL | 23 | 46 | 8,17 (1,92) | 60,76 (17,39) |
 | Controle |12 | 24 | 7,67 (2,06) | 58,96 (14,73)|
 
