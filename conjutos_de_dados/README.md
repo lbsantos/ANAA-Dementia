@@ -15,7 +15,7 @@ Esse conjunto de dados consiste em 70 narrativas de falantes do português do Br
 | MCI | 23 | 46 | 8,17 (1,92) | 60,76 (17,39) |
 | Controle |12 | 24 | 7,67 (2,06) | 58,96 (14,73)|
 
-O conjunto está disponivel no arquivo `abcd_dataset.csv`, onde cada linha é uma sentença do reconto, a coluna *ínviduo* contém um indentificador único para o ínviduo, a coluna *reconto* indica se a narrativa é imediatamente (1) ou depois de 30 minutos (2), a coluna *grupo* indica qual grupo o paciente pertence (CCL ou Controle), a coluna setença contém a setença que foi segmentada manualmente, e as demais colunas indicam se a unidade de informação foi recordada ou não.
+O conjunto está disponivel no arquivo `abcd_dataset.csv`, onde cada linha é uma sentença do reconto, a coluna *ínviduo* contém um indentificador único para o ínviduo, a coluna *reconto* indica se a narrativa é imediatamente (1) ou depois de 30 minutos (2), a coluna *grupo* indica qual grupo o paciente pertence (CCL ou Controle), a coluna *sentença* contém a *sentença* que foi segmentada manualmente, e as demais colunas indicam se a unidade de informação foi recordada ou não.
 
 ## História da Lucia - BALE
 A BALE (Bateria de Avaliação da Linguagem no Envelhecimento) é uma bateria padronizada com normas para os idosos saudáveis analfabetos da população brasileira, com baixa (2 a 8 anos de escolaridade) e alta (9 anos ou mais), de 60 a 90 anos.
