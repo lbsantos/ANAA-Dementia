@@ -12,8 +12,8 @@ Esse conjunto de dados consiste em 70 narrativas de falantes do português do Br
 
 | Grupo | Pacientes | Narrativa |<p>Média Sentenças<br>value  (Desvio Padrão)</p>  | <p>Média de palavras por sentença <br> (Desvio Padrão) </p> |
 |----------|------|-----------|-----------|---------------------------------|------------------------------------------------|
-| <p>CCL | 23 | 46 | 8,17 (1,92) | 60,76 (17,39) |
-| Controle |12 | 24 | 7,67 (2,06) | 58,96 (14,73)
+| CCL | 23 | 46 | 8,17 (1,92) | 60,76 (17,39) |
+| Controle |12 | 24 | 7,67 (2,06) | 58,96 (14,73)|
 
 O conjunto está disponivel no arquivo `abcd_dataset.csv`, onde cada linha é uma sentença do reconto.
 
@@ -24,10 +24,10 @@ O BALE fornece à academia e à clínica tarefas padronizadas e validadas, preen
 
 Esse conjunto de dados consiste em 69 narrativas de falantes do português do Brasil, 53 controle, 23 MCI amnéstico (aMCI), 11 com Doença de Alzheimer diagnosticados na Faculdade de Medicina da Universidade de São Paulo. O conjunto de dados foi coletado pela equipe coordenada pela **Professora Dra. Lilian Cristine Hübner**, da Escola de Humanidades da Pontifícia Universidade Católica (PUC) do Rio Grande do Sul, PUCRS. A tabela abaixo apresenta as estatísticas do conjunto de dados
 
-|  Grupo | Pacientes | Narrativa |<p>Média Sentenças<br>value  (Desvio Padrão)</p>  | <p>Média de palavras por sentença <br> (Desvio Padrão) </p> |
+| Grupo | Pacientes | Narrativa |<p>Média Sentenças<br>value  (Desvio Padrão)</p>  | <p>Média de palavras por sentença <br> (Desvio Padrão) </p> |
 |----------|------|-----------|-----------|---------------------------------|------------------------------------------------|
-| AD  | 11 |11 | 6,09 (2,63) |  36,18 (17,10) 
-| CCL | 5 | 5 | 6,00 (1,00) | 36,40 (5,68)
-| Controle | 53 | 53 | 7,68 (2,67) | 52,06 (19,18)
+| AD  | 11 |11 | 6,09 (2,63) |  36,18 (17,10) | 
+| CCL | 5 | 5 | 6,00 (1,00) | 36,40 (5,68) |
+| Controle | 53 | 53 | 7,68 (2,67) | 52,06 (19,18)|
 
 O conjunto está disponivel no arquivo `bale_dataset.csv`, onde cada linha é uma sentença do reconto.
